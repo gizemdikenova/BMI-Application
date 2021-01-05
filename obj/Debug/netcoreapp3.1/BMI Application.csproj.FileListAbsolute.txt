@@ -1,0 +1,13 @@
+D:\Turkcell Geleceği Yazanlar\BMI Application\obj\Debug\netcoreapp3.1\BMI Application.csprojAssemblyReference.cache
+D:\Turkcell Geleceği Yazanlar\BMI Application\obj\Debug\netcoreapp3.1\BMI Application.AssemblyInfoInputs.cache
+D:\Turkcell Geleceği Yazanlar\BMI Application\obj\Debug\netcoreapp3.1\BMI Application.AssemblyInfo.cs
+D:\Turkcell Geleceği Yazanlar\BMI Application\obj\Debug\netcoreapp3.1\BMI Application.csproj.CoreCompileInputs.cache
+D:\Turkcell Geleceği Yazanlar\BMI Application\bin\Debug\netcoreapp3.1\BMI Application.exe
+D:\Turkcell Geleceği Yazanlar\BMI Application\bin\Debug\netcoreapp3.1\BMI Application.deps.json
+D:\Turkcell Geleceği Yazanlar\BMI Application\bin\Debug\netcoreapp3.1\BMI Application.runtimeconfig.json
+D:\Turkcell Geleceği Yazanlar\BMI Application\bin\Debug\netcoreapp3.1\BMI Application.runtimeconfig.dev.json
+D:\Turkcell Geleceği Yazanlar\BMI Application\bin\Debug\netcoreapp3.1\BMI Application.dll
+D:\Turkcell Geleceği Yazanlar\BMI Application\bin\Debug\netcoreapp3.1\BMI Application.pdb
+D:\Turkcell Geleceği Yazanlar\BMI Application\obj\Debug\netcoreapp3.1\BMI Application.dll
+D:\Turkcell Geleceği Yazanlar\BMI Application\obj\Debug\netcoreapp3.1\BMI Application.pdb
+D:\Turkcell Geleceği Yazanlar\BMI Application\obj\Debug\netcoreapp3.1\BMI Application.genruntimeconfig.cache
